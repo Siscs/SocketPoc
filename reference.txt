@@ -1,0 +1,2 @@
+https://www.geeksforgeeks.org/socket-programming-in-c-sharp/
+https://www.c-sharpcorner.com/article/socket-programming-in-C-Sharp/
